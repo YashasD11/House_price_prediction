@@ -84,9 +84,6 @@ Linear Regression
 
 Random Forest Regressor
 
-Gradient Boosting Regressor
-(Replace with models you actually used)
-
 Step 5: Model Evaluation
 
 R² Score
@@ -109,7 +106,7 @@ These results indicate strong predictive capability with minimized error.
 6. How to Run the Project
 Clone the Repository
 
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/YashasD11/House-price-prediction.git
 cd house-price-prediction
 
 Install Dependencies
